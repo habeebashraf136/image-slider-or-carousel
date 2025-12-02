@@ -23,3 +23,4 @@ This slider supports **Next/Previous buttons**, smooth transitions, and is easy 
 
 
 ### Clone the repository
+https://habeebashraf136.github.io/image-slider-or-carousel/
